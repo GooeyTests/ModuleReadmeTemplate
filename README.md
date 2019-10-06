@@ -8,7 +8,7 @@
   <a href="#about">About</a>&nbsp;&nbsp;
   <a href="#setup">Setup</a>&nbsp;&nbsp;
   <a href="https://github.com/MovingBlocks/Terasology/wiki/Developing-Modules">Contributing</a>&nbsp;&nbsp;
-  <a href="https://github.com/MovingBlocks/Terasology/module-name/graphs/contributors">Credits</a>
+  <a href="https://github.com/Terasology/module-name/graphs/contributors">Credits</a>
 </p>
 
 ---
